@@ -66,6 +66,7 @@ Churn Destoys SaaS Business - customers leaving the business too soon.  In 2005 
 
 ### Team Effort
 - Partner with customer to be successful
+- Customer Success is a team sport
 
 ### Success must be part of the Organizations DNA
 - It must be part of the ethos, the fabric of the company
