@@ -8,7 +8,7 @@
 - Articulate why Customer Success should be considered a core company operating philosophy.
 - Demonstrate an understanding of common Customer Success terminology.
 
-## How Dit It All Start
+## How Did It All Start
 - Shift from on-premise software model to a subscription based software - as-a-service modle
 - Shifted from Product Era (manufacturing era) focused on supply chain to Service Era
 
