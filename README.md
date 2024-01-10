@@ -34,10 +34,23 @@ Customer support | customer success
 - Companies moving from thinking of their customers as consumers to subscribers
 - Satisfaction is as important as price (value).  Subcriptions end.
 - Initial Sales is 5 to 30% of revenue with 70-95% of revenues come from renewals and upsells
-- Burden of success shifts to seller
+- Burden of success shifts to seller.  The are floating the cost of expense of acquiring and keeping a customer
+- Now focus on customer success
 
 ### Simple SaaS Econmics
 - $18 to acquire a new customer (CAC - Cost of Acquistion)
 - $1 in profit/month from that customer
-- You don't recoup CAC until month 18
+- You don't recoup CAC until month 18.  Most companies try to break even in the 12 ~ 15 month range
 - If customer leaves after 12 months, you incur a loss
+
+Churn Destoys SaaS Business - customers leaving the business too soon.  In 2005 Salesforce was losing 8% of customers a month.  Essentially 100% customer turned over each year.  This was the birth of Customer Success
+
+### Five Hallmarks of Customer Success
+- Focus on Customer Engagement - Don't think about just the product.  How do customers interact with product.  What's the value they get from the product.  How are you engaging with the customer
+- Create organizational alignment to deliver customer outcomes.  Everyone in the company focused on customer outcomes
+- Develop a common language so everyone in the company understand what they were talking about and creating measurements and metrics
+- Learn from Churn.  Analyze root causes of churn.
+- Create an Early Warning System.  Gather data from customers doing both well and poorly to predict possible churn. Risk Identification, Customer Success Score, etc.
+
+## Making Success Happen
+
