@@ -2,7 +2,7 @@
 
 [CCSM Training Table of Contents](https://github.com/pslucas0212/CCSM-Training/)
 
-### Learning Goals
+## Learning Goals
 - Summarize the macro market changes that drove the evolution of the Customer Success role.
 - Identify the five hallmarks critical to a comprehensive Customer Success strategy.
 - Articulate why Customer Success should be considered a core company operating philosophy.
